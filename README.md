@@ -2,7 +2,7 @@
 - wwbot
 - gurb
 
-## language
+## languages
 - js
 - learning ts
 - a tiny bit of c++
