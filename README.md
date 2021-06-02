@@ -1,5 +1,5 @@
 ## projects working on
-- wwbot
+- wwbot (not particularly fond of that mess)
 - gurb
 
 ## languages
@@ -8,3 +8,4 @@
 - a tiny bit of c++
 - a bit of lua (base index 1 is horrible)
 - a bit of wikitext with ParserFunctions (quite esoteric!)
+- just started learning python for google's foobar challenge 😫
