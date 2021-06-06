@@ -1,6 +1,6 @@
 ## projects working on
 - wwbot (not particularly fond of that mess)
-- gurb (open source soon™)
+- gurb (python 🥴)
 
 ## languages
 - js
