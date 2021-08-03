@@ -1,6 +1,6 @@
 ## projects working on
-- wwbot (not particularly fond of that mess)
-- gurb (python 🥴)
+- gurb (typescript ❤️)
+- token-grabber-fun
 
 ## languages
 - js
