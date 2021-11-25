@@ -1,10 +1,9 @@
 ## projects working on
-- gurb (typescript ❤️)
-- token-grabber-fun
+- plugify
+- plugify
 
 ## languages
-- js
-- learning ts
+- TS/JS
 - a tiny bit of c++
 - a bit of lua (base index 1 is horrible)
 - a bit of wikitext with ParserFunctions (quite esoteric!)
