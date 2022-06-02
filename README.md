@@ -1,10 +1,9 @@
 ## projects working on
-- plugify
-- plugify
+- impulse (mainly backend, trying to do some frontend work as well)
 
 ## languages
 - TS/JS
 - a tiny bit of c++
-- a bit of lua (base index 1 is horrible)
-- a bit of wikitext with ParserFunctions (quite esoteric!)
-- just started learning python for google's foobar challenge 😫
+- a bit of lua
+- a bit of wikitext with ParserFunctions (esoteric!)
+- a bit of python
