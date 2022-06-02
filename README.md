@@ -1,5 +1,5 @@
 ## projects working on
-- impulse (mainly backend, trying to do some frontend work as well)
+- impulse chat (mainly backend, trying to do some frontend work as well)
 
 ## languages
 - TS/JS
